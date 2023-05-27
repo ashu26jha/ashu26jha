@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Ashutosh Jha</h1>
+<h1 align="center">Hello 👋 I'm Ashutosh Jha</h1>
 <h3 align="center">Sophomore @IIIT Pune</h3>
 
 ![](https://komarev.com/ghpvc/?username=ashu26jha)
