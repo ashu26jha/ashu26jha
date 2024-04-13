@@ -1,12 +1,8 @@
 <h1 align="center">Hello 👋 I'm Ashutosh Jha</h1>
-<h3 align="center">Sophomore @IIIT Pune</h3>
+<h3 align="center">Pre Final year @IIIT Pune</h3>
 
 ![](https://komarev.com/ghpvc/?username=ashu26jha)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Payment Split App**
-
-- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **C++, Solidity, Javascript**
 
