@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **ashutosh26jha@gmail.com**
 
+- [Portfolio](https://ashu26.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ashu26jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashu26jha" height="30" width="40" /></a>
