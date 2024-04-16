@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **ashutosh26jha@gmail.com**
 
+- 💡 L2s in web3 space have facinated me, this year want to work on some Open Source L2.
+
 - [Portfolio](https://ashu26.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
